@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aneury1 Software Developer
-- 👀 I’m interested in C++/C/Scala/Java/Rust/FP/GIS
+- 👀 I’m interested in C++/C/Scala/Java/Rust/FP/GIS/CosmWasm/Blockchain
 - 🌱 I’m currently learning Scala
 - 💞️ I’m looking to collaborate
 - 📫 How to reach ...
