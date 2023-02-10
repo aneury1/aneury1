@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aneury1
-- 👀 I’m interested in C++/C/Scala/Java/FP
+- 👀 I’m interested in C++/C/Scala/Java/Rust/FP
 - 🌱 I’m currently learning Scala
 - 💞️ I’m looking to collaborate
 - 📫 How to reach ...
