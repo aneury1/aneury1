@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aneury1 Software Developer
-- 👀 I’m interested in C++/C/Scala/Java/Rust/FP/GIS/CosmWasm/Blockchain/SmartContract/DeFI/QT/FLTK
+- 👀 I’m interested in C++/C/Rust/EmbeddedDev/Automotive/GIS/wxWidget/Qt
 - 🌱 I’m currently learning AutoSar, BLE, Automotive, Infotaiment
 - 💞️ I’m looking to collaborate on w
 - 📫 How to reach ...
